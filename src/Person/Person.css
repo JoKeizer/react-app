@@ -1,0 +1,11 @@
+.Person {
+    width: 60%;
+    margin: auto;
+    border: 1px solid grey;
+    padding: 16px;
+    box-shadow: 0 2px 3px gainsboro;
+    text-align: center;
+    padding: 30px;
+    margin-top: 40px;
+
+}
